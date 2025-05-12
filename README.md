@@ -1,6 +1,6 @@
 # Credit Risk Modeling App
 
-This is a Streamlit-based web application [link]() for predicting the **credit default risk** of a loan applicant using various financial and personal parameters. The app calculates the **default probability**, assigns a **credit score**, and categorizes the result into a **rating** (Poor, Average, Good, Excellent).
+This is a Streamlit-based web application [link](https://credit-risk-model-by-ankit.streamlit.app/) for predicting the **credit default risk** of a loan applicant using various financial and personal parameters. The app calculates the **default probability**, assigns a **credit score**, and categorizes the result into a **rating** (Poor, Average, Good, Excellent).
 
 ---
 
